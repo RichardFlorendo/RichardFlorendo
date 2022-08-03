@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @RichardFlorendo, a graduate of Bachelor of Science in Information Technology.
-- 👀 I’m interested in C#, Object-oriented programming, and Game Development.
-- 🌱 I’m currently learning making small projects and making games.
-- 💞️ I’m looking to collaborate on C# projects and games that will help me learn.
-- 📫 How to reach me? Email- richard.florendo24@gmail.com
+- 👋 Hi, I’m @RichardFlorendo, a Software Engineer and aspiring Game Developer.
+- 👀 I’m interested in Object-oriented programming and Game Development.
+- 🌱 I’m currently studying Game Design and Development specializing in Unity, C# and Basic.
+- 💼 I’m looking to work on C#, Java, or Dart projects, or to work on Game Development.
+- 📫 How to reach me? Try the following:
+- 📧 My Personal Email- richard.florendo24@gmail.com
+- 🏙 My LinkedIn profile - https://www.linkedin.com/in/richard-edmund-florendo/
+- 💻 My Facebook profile - https://www.facebook.com/richard.florendo24
 
 <!---
 RichardFlorendo/RichardFlorendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
