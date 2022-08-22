@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RichardFlorendo, a Software Engineer and aspiring Game Developer.
-- 👀 I’m interested in Object-oriented programming and Game Development.
-- 🌱 I’m currently studying Game Design and Development specializing in Unity, C# and Basic.
+- 👋 Hi, I’m @RichardFlorendo, a Software Engineer and in-progress Game Developer.
+- 👀 I’m interested in Object-oriented programming, Agile methodology, and Game Development.
+- 🌱 I’m currently studying Game Design and Development specializing in Unity, C#, and 3D assets and Animation.
 - 💼 I’m looking to work on C#, Java, or Dart projects, or to work on Game Development.
 - 📫 How to reach me? Try the following:
 - 📧 My Personal Email- richard.florendo24@gmail.com
