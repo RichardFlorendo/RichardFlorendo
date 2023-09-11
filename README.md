@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichardFlorendo, a Software Engineer and in-progress Game Developer.
 - 👀 I’m interested in Object-oriented programming, Agile methodology, and Game Development.
   
-- 💻 I'm currently studying Python Programming in an ACTVET-accredited Training Center.
+- 💻 I recently finished studying Python Programming in an ACTVET-accredited Training Center.
 - 🌱 I finshed studying Game Design and Development specializing in Unity, C#, and 3D assets and Animation as a specialist course.
 - 🎉 I have recently finished a Core Java certification in an ACTVET-accredited Training Center.
 - 🎖️ I have accomplished many certifications such as Core Java, Game Design and Development, Data Analysis, and UI/UX Design.
