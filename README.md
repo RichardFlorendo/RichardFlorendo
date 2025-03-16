@@ -3,6 +3,7 @@
 I am a Software Engineer & Mobile Developer with over 3 years of experience, specializing in Android (Kotlin & Java), Flutter, and Kotlin Multiplatform. Passionate about building scalable mobile applications, real-time database solutions, and interactive user experiences. I am a quick learner, always eager to study and adapt to emerging trends and technologies to continuously improve my skills and stay ahead in the evolving mobile development landscape.
 
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 👀 What I'm Interested In
@@ -14,6 +15,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Agile Methodology & CI/CD Pipelines
 
 🔹 Game Development (Unity & Future Kotlin-Unity Integration)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,6 +33,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Designed for future Unity compatibility, enabling interactive 3D elements
 
 
+
 📲 DummyJSON API Mobile App (Assessment Project):
 
 🔹 Developed a pagination-based mobile app using Jetpack Compose
@@ -40,6 +43,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Designed a dynamic UI with a detailed product screen including horizontal image scrolling
 
 🔹 Followed Clean Architecture principles with ViewModel and Repository patterns
+
 
 
 📲 PokeAPI Mobile App (Assessment Project):
@@ -55,6 +59,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Followed MVVM architecture with ViewModel, Repository, and LiveData to ensure scalability and maintainability
 
 
+
 🎮 Unity Game Development (Personal & Vocational Projects):
 
 🔹 Developed 2D & 3D interactive games using Unity (C#)
@@ -62,6 +67,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Designed custom gameplay mechanics and AI logic with C# scripting
 
 🔹 Integrated 3D assets, animations, and physics-based interactions
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -81,6 +87,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Agile & Collaboration: Jira, Scrum, Git version control
 
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🎓 Certifications & Training
@@ -94,6 +101,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 React Native & React Web Development (Udemy, 2024)
 
 
+
 📌 Trainings and Google:
 
 🔹 Python Programming (Time Training Center, UAE)
@@ -103,11 +111,13 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Google Data Analytics & UX Design (Coursera)
 
 
+
 📌 Soft Skills & Communication:
 
 🔹 Business Communication Skills & Technical Writing (Udemy, 2024)
 
 🔹 Soft Skills for Technical Professionals (Udemy, 2024)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -121,6 +131,7 @@ I am a Software Engineer & Mobile Developer with over 3 years of experience, spe
 🔹 Created custom game mechanics with C# scripting
 
 🔹 Integrated 3D assets & animation workflows for immersive experiences
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
